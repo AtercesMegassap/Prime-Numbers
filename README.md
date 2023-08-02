@@ -13,7 +13,7 @@ This is a simple Node.js API built with Express that generates the first 10 prim
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AtercesMegassap/Prime-Numbers
+git clone https://github.com/AtercesMegassap/Prime-Numbers.git
 ```
 Navigate to the project directory:
 ```bash
