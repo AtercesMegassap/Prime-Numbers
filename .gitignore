@@ -1,0 +1,24 @@
+# Dependencies and Modules
+/node_modules
+
+# IDE or Editor generated files
+/.vscode
+/.idea
+*.log
+npm-debug.log*
+
+# Log files
+logs
+*.log
+
+# Build process generated files
+/build
+/dist
+
+# System configuration files
+.DS_Store
+Thumbs.db
+
+# Cache files
+/.sass-cache
+/yarn-error.log
